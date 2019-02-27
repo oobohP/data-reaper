@@ -1,0 +1,241 @@
+// need to find a way to optimize this better
+// possible use of just a regular textfile that's huge like cameron's
+//there are a lot of limitations for using json
+// or actually have a blank keyword and put everything inside of it??
+{
+  "cialis": [
+    "cialis"
+  ],
+  "viagra": [
+    "viagra"
+  ],
+  "tinnitus": [
+    "tinnitus"
+  ],
+  "dear": [
+    "sir,",
+    "sir/madam",
+    "proposition",
+    "customer",
+    "proposal",
+    "business",
+    "customer",
+    "EMAIL",
+    "EMAIL,",
+    "(EMAIL)",
+    "kindly",
+    "click",
+    "updated",
+    "update",
+    "mailbox",
+    "quota",
+    "exceeded",
+    "suspended",
+    "webmail",
+    "server",
+    "restore",
+    "normal",
+    "disabled",
+    "upgrade",
+    "quotation"
+
+  ],
+  "earn": [
+  	"week",
+  	"$",
+  	"find",
+  	"out",
+  	"how",
+  	"click",
+  	"webinar"
+  ],
+  "mystery": [
+    "shopper",
+    "earn",
+    "money",
+    "fill",
+    "info",
+    "name:",
+    "name",
+    "address",
+    "address:"
+  ],
+  "detective": [
+  	"shopper",
+  	"payment",
+  	"earn",
+  	"mystery",
+  	"shopper",
+  	"interested",
+  	"fill",
+  	"form",
+  	"adress",
+  	"name"
+  ],
+  "your": [
+    "future",
+    "date",
+    "earn",
+    "friends",
+    "account",
+    "temporarly",
+    "suspended",
+    "disabled"
+  ],
+  "EMAIL,": [
+    "suspended",
+    "disable",
+    "email",
+    "address",
+    "quota",
+    "size",
+    "mailbox",
+    "temporarily",
+    "upgrade"
+  ],
+  "mail": [
+    "suspended",
+    "disable",
+    "email",
+    "address",
+    "quota",
+    "size",
+    "mailbox",
+    "temporarily",
+    "upgrade",
+    "add",
+    "free",
+    "space",
+    "regards,"
+  ],
+  "ED": [
+    "disfunction",
+    "erectile",
+    "pills",
+    "libido",
+    "enhance"
+  ],
+  "erectile": [
+    "ed",
+    "medication",
+    "married",
+    "failing",
+    "marraige",
+    "unhappy"
+  ],
+  "need": [
+    "loan",
+    "reliable",
+    "urgent",
+    "offer",
+    "business",
+    "personal",
+    "reply",
+    "debt",
+    "risk",
+    "click",
+    "access",
+    "documents"
+  ],
+  "attn": [
+    "us",
+    "usd",
+    "entitled",
+    "transfer",
+    "beneficiary",
+    "$",
+    "grant"
+  ],
+  "beneficiary": [
+    "attn",
+    "attn:",
+    "transfer",
+    "entitle",
+    "entitled",
+    "funds",
+    "us",
+    "usd",
+    "$",
+    "grant",
+    "inheretence"
+  ],
+  "granted": [
+
+  	"details",
+  	"funds",
+  	"address",
+  	"us$500,000,000?"
+  ],
+  "webmail": [
+    "mailbox",
+    "full",
+    "quota",
+    "over",
+    "exceed",
+    "suspended",
+    "suspend",
+    "closure",
+    "account",
+    "exceeded",
+    "account",
+    "temporarily",
+    "verify",
+    "re-verify",
+    "click",
+    "link",
+    "upgrade"
+  ],
+  "|": [
+    "shared",
+    "file",
+    "with",
+    "you",
+    "docusign",
+    "quota",
+    "mailbox"
+  ],
+  "bitcoin": [
+    "ico",
+    "gains",
+    "rich",
+    "filthy",
+    "click",
+    "risk"
+  ],
+  "ringing": [
+  	"ears",
+  	"destroy",
+  	"tinnitus",
+  	"breakfest",
+  	"eat"
+  ],
+  "woman": [
+  	"y.o",
+  	"fuck",
+  	"man",
+  	"looking",
+  	"experienced",
+  	"please",
+  	"from",
+  	"russia",
+  	"slovakia",
+  	"china",
+  	"pic",
+  	"picture",
+  	"reply",
+  	"back",
+  	"21",
+  	"23",
+  	"24"
+  ],
+  "fidelity": [
+  	"term",
+  	"life",
+  	"term-life",
+  	"save",
+  	"money",
+  	"click"
+  ]
+
+
+}
